@@ -1,1 +1,4 @@
-# bd-2023-1
+# Ayudantía Bases de Datos
+Acá podrán encontrar las PPT y diversos recursos que usaremos en la ayudantía. 
+~~*PROXIMAMENTE ESTARÁ EN CANVAS*~~ 
+
